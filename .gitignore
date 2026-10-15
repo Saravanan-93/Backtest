@@ -2,3 +2,8 @@
 output/
 __pycache__/
 *.py[cod]
+
+# Report and image generators stay local
+generate_setup_report.py
+generate_images.py
+peak_rsi_images.py
