@@ -1,0 +1,5 @@
+# Everything the backtest generates stays local
+output/*
+!output/pip_values.json
+__pycache__/
+*.py[cod]

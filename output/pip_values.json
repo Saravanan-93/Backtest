@@ -1,0 +1,21 @@
+{
+  "as_of": "2026-10-03 17:33:34",
+  "source": "MT5 trade_tick_value (same figure sizing.lot_for uses)",
+  "pip_value_per_std_lot_usd": {
+    "EURUSD": 10.0,
+    "EURAUD": 6.9554,
+    "EURNZD": 5.6142,
+    "EURCAD": 7.01567,
+    "EURCHF": 12.06447,
+    "AUDUSD": 10.0,
+    "AUDNZD": 5.6142,
+    "AUDCAD": 7.01567,
+    "AUDCHF": 12.06447,
+    "NZDUSD": 10.0,
+    "NZDCAD": 7.01567,
+    "NZDCHF": 12.06447,
+    "USDCAD": 7.01567,
+    "USDCHF": 12.06447,
+    "CADCHF": 12.06447
+  }
+}
